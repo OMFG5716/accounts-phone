@@ -1,6 +1,8 @@
 Accounts-Phone
 =========================
 
+#### Only added the version bump for npm-bcrypt to avoid the binaries not found error. No other changes.  
+
 Accounts-Phone is a Meteor package that let you authenticate by phone number.
 The package use SMS code verification to verify the user account.
 The package is based and inspired by Meteor Accounts-Password package.
